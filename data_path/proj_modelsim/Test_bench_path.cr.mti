@@ -1,0 +1,134 @@
+C:/Projects/data_path/src/mem_src/mux_memory_system.v {1 {vlog -work work -stats=none C:/Projects/data_path/src/mem_src/mux_memory_system.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_memory_system
+
+Top level modules:
+	mux_memory_system
+
+} {} {}} C:/Projects/data_path/src/reg_src/wraper_RF.v {1 {vlog -work work -stats=none C:/Projects/data_path/src/reg_src/wraper_RF.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module wraper_RF
+
+Top level modules:
+	wraper_RF
+
+} {} {}} C:/Projects/data_path/src/reg_src/registers.v {1 {vlog -work work -stats=none C:/Projects/data_path/src/reg_src/registers.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module registers
+
+Top level modules:
+	registers
+
+} {} {}} C:/Projects/data_path/src/flipflop.v {1 {vlog -work work -stats=none C:/Projects/data_path/src/flipflop.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module flipflop
+
+Top level modules:
+	flipflop
+
+} {} {}} C:/Projects/data_path/src/mem_src/wraper_MS.v {1 {vlog -work work -stats=none C:/Projects/data_path/src/mem_src/wraper_MS.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module wraper_MS
+
+Top level modules:
+	wraper_MS
+
+} {} {}} C:/Projects/data_path/src/MUX4_1.v {1 {vlog -work work -stats=none C:/Projects/data_path/src/MUX4_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MUX4_1
+
+Top level modules:
+	MUX4_1
+
+} {} {}} C:/Projects/data_path/src/reg_src/MUX_bits.v {1 {vlog -work work -stats=none C:/Projects/data_path/src/reg_src/MUX_bits.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MUX_bits
+
+Top level modules:
+	MUX_bits
+
+} {} {}} C:/Projects/data_path/src/FFD_PC.v {1 {vlog -work work -stats=none C:/Projects/data_path/src/FFD_PC.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FFD_PC
+
+Top level modules:
+	FFD_PC
+
+} {} {}} C:/Projects/data_path/src/mem_src/memory_system.v {1 {vlog -work work -stats=none C:/Projects/data_path/src/mem_src/memory_system.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module memory_system
+
+Top level modules:
+	memory_system
+
+} {} {}} C:/Projects/data_path/src/TB_Data_Path.v {1 {vlog -work work -stats=none {C:\Projects\data_path\src\TB_Data_Path.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_Data_Path
+
+Top level modules:
+	TB_Data_Path
+
+} {} {}} C:/Projects/data_path/src/reg_src/registers_4_32.v {1 {vlog -work work -stats=none C:/Projects/data_path/src/reg_src/registers_4_32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module registers_4_32
+
+Top level modules:
+	registers_4_32
+
+} {} {}} C:/Projects/data_path/src/reg_src/FFD.v {1 {vlog -work work -stats=none C:/Projects/data_path/src/reg_src/FFD.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FFD
+
+Top level modules:
+	FFD
+
+} {} {}} C:/Projects/data_path/src/mem_src/mux_module.v {1 {vlog -work work -stats=none C:/Projects/data_path/src/mem_src/mux_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_module
+
+Top level modules:
+	mux_module
+
+} {} {}} C:/Projects/data_path/src/mem_src/Program_Memory.v {1 {vlog -work work -stats=none C:/Projects/data_path/src/mem_src/Program_Memory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Program_Memory
+
+Top level modules:
+	Program_Memory
+
+} {} {}} C:/Projects/data_path/src/mem_src/single_port_sync_ram.v {1 {vlog -work work -stats=none C:/Projects/data_path/src/mem_src/single_port_sync_ram.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module single_port_sync_ram
+
+Top level modules:
+	single_port_sync_ram
+
+} {} {}} C:/Projects/data_path/src/sign_extended_part.v {1 {vlog -work work -stats=none C:/Projects/data_path/src/sign_extended_part.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sign_extended_part
+
+Top level modules:
+	sign_extended_part
+
+} {} {}} C:/Projects/data_path/src/reg_src/register_file.v {1 {vlog -work work -stats=none C:/Projects/data_path/src/reg_src/register_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register_file
+
+Top level modules:
+	register_file
+
+} {} {}} C:/Projects/data_path/src/mem_src/DataMemory.v {1 {vlog -work work -stats=none C:/Projects/data_path/src/mem_src/DataMemory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} C:/Projects/data_path/src/ALU.v {1 {vlog -work work -stats=none {C:\Projects\data_path\src\ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}

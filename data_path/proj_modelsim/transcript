@@ -1,0 +1,980 @@
+# Compile of ALU.v was successful.
+# Compile of data_path.v was successful.
+# Compile of FFD_PC.v was successful.
+# Compile of flipflop.v was successful.
+# Compile of MUX4_1.v was successful.
+# Compile of sign_extended_part.v was successful.
+# Compile of TB_Data_Path.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of memory_system.v was successful.
+# Compile of mux_memory_system.v was successful.
+# Compile of mux_module.v was successful.
+# Compile of Program_Memory.v was successful.
+# Compile of single_port_sync_ram.v was successful.
+# Compile of TB_Memory_System.v failed with 1 errors.
+# Compile of wraper_MS.v was successful.
+# Compile of FFD.v was successful.
+# Compile of MUX_bits.v was successful.
+# Compile of register_file.v was successful.
+# Compile of registers.v was successful.
+# Compile of registers_4_32.v was successful.
+# Compile of wraper_RF.v was successful.
+# 21 compiles, 1 failed with 1 error.
+# Compile of ALU.v was successful.
+# Compile of data_path.v was successful.
+# Compile of FFD_PC.v was successful.
+# Compile of flipflop.v was successful.
+# Compile of MUX4_1.v was successful.
+# Compile of sign_extended_part.v was successful.
+# Compile of TB_Data_Path.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of memory_system.v was successful.
+# Compile of mux_memory_system.v was successful.
+# Compile of mux_module.v was successful.
+# Compile of Program_Memory.v was successful.
+# Compile of single_port_sync_ram.v was successful.
+# Compile of wraper_MS.v was successful.
+# Compile of FFD.v was successful.
+# Compile of MUX_bits.v was successful.
+# Compile of register_file.v was successful.
+# Compile of registers.v was successful.
+# Compile of registers_4_32.v was successful.
+# Compile of wraper_RF.v was successful.
+# 20 compiles, 0 failed with no errors.
+vsim work.TB_Data_Path
+# vsim work.TB_Data_Path 
+# Start time: 16:20:24 on Dec 05,2021
+# Loading work.TB_Data_Path
+add wave -position end  sim:/TB_Data_Path/TB_clk
+run
+quit -sim
+# End time: 16:21:03 on Dec 05,2021, Elapsed time: 0:00:39
+# Errors: 0, Warnings: 10
+# Compile of TB_Data_Path.v failed with 8 errors.
+# Compile of TB_Data_Path.v was successful.
+# Compile of TB_Data_Path.v was successful.
+# Compile of TB_Data_Path.v was successful.
+# Compile of ALU.v was successful.
+# Compile of data_path.v was successful.
+# Compile of FFD_PC.v was successful.
+# Compile of flipflop.v was successful.
+# Compile of MUX4_1.v was successful.
+# Compile of sign_extended_part.v was successful.
+# Compile of TB_Data_Path.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of memory_system.v was successful.
+# Compile of mux_memory_system.v was successful.
+# Compile of mux_module.v was successful.
+# Compile of Program_Memory.v was successful.
+# Compile of single_port_sync_ram.v was successful.
+# Compile of wraper_MS.v was successful.
+# Compile of FFD.v was successful.
+# Compile of MUX_bits.v was successful.
+# Compile of register_file.v was successful.
+# Compile of registers.v was successful.
+# Compile of registers_4_32.v was successful.
+# Compile of wraper_RF.v was successful.
+# 20 compiles, 0 failed with no errors.
+vsim work.TB_Data_Path
+# vsim work.TB_Data_Path 
+# Start time: 19:49:41 on Dec 05,2021
+# Loading work.TB_Data_Path
+# Loading work.data_path
+# Loading work.FFD_PC
+# Loading work.mux_module
+# Loading work.wraper_MS
+# Loading work.mux_memory_system
+# Loading work.Program_Memory
+# Loading work.single_port_sync_ram
+# Loading work.FFD
+# Loading work.wraper_RF
+# Loading work.register_file
+# Loading work.registers_4_32
+# Loading work.MUX_bits
+# Loading work.registers
+# ** Error: (vsim-3037) Missing instance name in instantiation of 'sign_extended_part'.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV File: C:/Projects/data_path/src/data_path.v Line: 182
+# Loading work.MUX4_1
+# ** Error: (vsim-3037) Missing instance name in instantiation of 'ALU'.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV File: C:/Projects/data_path/src/data_path.v Line: 201
+# Error loading design
+# End time: 19:49:42 on Dec 05,2021, Elapsed time: 0:00:01
+# Errors: 2, Warnings: 6
+vsim work.TB_Data_Path
+# vsim work.TB_Data_Path 
+# Start time: 19:50:55 on Dec 05,2021
+# Loading work.TB_Data_Path
+# Loading work.data_path
+# Loading work.FFD_PC
+# Loading work.mux_module
+# Loading work.wraper_MS
+# Loading work.mux_memory_system
+# Loading work.Program_Memory
+# Loading work.single_port_sync_ram
+# Loading work.FFD
+# Loading work.wraper_RF
+# Loading work.register_file
+# Loading work.registers_4_32
+# Loading work.MUX_bits
+# Loading work.registers
+# ** Error: (vsim-3037) Missing instance name in instantiation of 'sign_extended_part'.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV File: C:/Projects/data_path/src/data_path.v Line: 182
+# Loading work.MUX4_1
+# ** Error: (vsim-3037) Missing instance name in instantiation of 'ALU'.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV File: C:/Projects/data_path/src/data_path.v Line: 201
+# Error loading design
+# End time: 19:50:56 on Dec 05,2021, Elapsed time: 0:00:01
+# Errors: 2, Warnings: 3
+# Compile of data_path.v was successful.
+vsim work.TB_Data_Path
+# vsim work.TB_Data_Path 
+# Start time: 19:54:35 on Dec 05,2021
+# Loading work.TB_Data_Path
+# Loading work.data_path
+# Loading work.FFD_PC
+# Loading work.mux_module
+# Loading work.wraper_MS
+# Loading work.mux_memory_system
+# Loading work.Program_Memory
+# Loading work.single_port_sync_ram
+# Loading work.FFD
+# Loading work.wraper_RF
+# Loading work.register_file
+# Loading work.registers_4_32
+# Loading work.MUX_bits
+# Loading work.registers
+# ** Error: (vsim-3037) Missing instance name in instantiation of 'sign_extended_part'.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV File: C:/Projects/data_path/src/data_path.v Line: 183
+# Loading work.MUX4_1
+# ** Error: (vsim-3037) Missing instance name in instantiation of 'ALU'.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV File: C:/Projects/data_path/src/data_path.v Line: 202
+# Error loading design
+# End time: 19:54:35 on Dec 05,2021, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 4
+# Compile of TB_Data_Path.v was successful.
+vsim work.TB_Data_Path
+# vsim work.TB_Data_Path 
+# Start time: 19:58:57 on Dec 05,2021
+# Loading work.TB_Data_Path
+# Loading work.data_path
+# Loading work.FFD_PC
+# Loading work.mux_module
+# Loading work.wraper_MS
+# Loading work.mux_memory_system
+# Loading work.Program_Memory
+# Loading work.single_port_sync_ram
+# Loading work.FFD
+# Loading work.wraper_RF
+# Loading work.register_file
+# Loading work.registers_4_32
+# Loading work.MUX_bits
+# Loading work.registers
+# ** Error: (vsim-3037) Missing instance name in instantiation of 'sign_extended_part'.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV File: C:/Projects/data_path/src/data_path.v Line: 183
+# Loading work.MUX4_1
+# ** Error: (vsim-3037) Missing instance name in instantiation of 'ALU'.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV File: C:/Projects/data_path/src/data_path.v Line: 202
+# Error loading design
+# End time: 19:58:58 on Dec 05,2021, Elapsed time: 0:00:01
+# Errors: 2, Warnings: 2
+# Compile of data_path.v was successful.
+# Compile of ALU.v was successful.
+# Compile of data_path.v was successful.
+# Compile of FFD_PC.v was successful.
+# Compile of flipflop.v was successful.
+# Compile of MUX4_1.v was successful.
+# Compile of sign_extended_part.v was successful.
+# Compile of TB_Data_Path.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of memory_system.v was successful.
+# Compile of mux_memory_system.v was successful.
+# Compile of mux_module.v was successful.
+# Compile of Program_Memory.v was successful.
+# Compile of single_port_sync_ram.v was successful.
+# Compile of wraper_MS.v was successful.
+# Compile of FFD.v was successful.
+# Compile of MUX_bits.v was successful.
+# Compile of register_file.v was successful.
+# Compile of registers.v was successful.
+# Compile of registers_4_32.v was successful.
+# Compile of wraper_RF.v was successful.
+# 20 compiles, 0 failed with no errors.
+vsim work.TB_Data_Path
+# vsim work.TB_Data_Path 
+# Start time: 20:03:21 on Dec 05,2021
+# Loading work.TB_Data_Path
+# Loading work.data_path
+# Loading work.FFD_PC
+# Loading work.mux_module
+# Loading work.wraper_MS
+# Loading work.mux_memory_system
+# Loading work.Program_Memory
+# Loading work.single_port_sync_ram
+# Loading work.FFD
+# Loading work.wraper_RF
+# Loading work.register_file
+# Loading work.registers_4_32
+# Loading work.MUX_bits
+# Loading work.registers
+# Loading work.sign_extended_part
+# Loading work.MUX4_1
+# Loading work.ALU
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M1_ADD File: C:/Projects/data_path/src/data_path.v Line: 87
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M2_A3 File: C:/Projects/data_path/src/data_path.v Line: 94
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M3_WD3 File: C:/Projects/data_path/src/data_path.v Line: 102
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (5) for port 'Data_out'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(10).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M3_WD3 File: C:/Projects/data_path/src/data_path.v Line: 102
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'Data_out'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(10).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/MEM/mem_sys/mux File: C:/Projects/data_path/src/mem_src/mux_memory_system.v Line: 36
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/Data File: C:/Projects/data_path/src/data_path.v Line: 131
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (5) for port 'write_data_i'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 140
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'read_data_1_o'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(14).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 140
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'read_data_2_o'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(15).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 140
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'd'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/A_rout File: C:/Projects/data_path/src/data_path.v Line: 154
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/A_rout File: C:/Projects/data_path/src/data_path.v Line: 154
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'd'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/B_rout File: C:/Projects/data_path/src/data_path.v Line: 163
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/B_rout File: C:/Projects/data_path/src/data_path.v Line: 163
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (1) for port 'select'. The port definition is at: C:/Projects/data_path/src/ALU.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/ALU_M File: C:/Projects/data_path/src/data_path.v Line: 195
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/ALUResult_o File: C:/Projects/data_path/src/data_path.v Line: 204
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M5 File: C:/Projects/data_path/src/data_path.v Line: 213
+add wave -position end  sim:/TB_Data_Path/WIDTH
+add wave -position end  sim:/TB_Data_Path/TB_clk
+add wave -position end  sim:/TB_Data_Path/TB_reset
+add wave -position end  sim:/TB_Data_Path/TB_ALUSrcB
+add wave -position end  sim:/TB_Data_Path/TB_ALUSrcA
+add wave -position end  sim:/TB_Data_Path/TB_zero
+add wave -position end  sim:/TB_Data_Path/TB_op
+add wave -position end  sim:/TB_Data_Path/TB_Funct
+add wave -position end  sim:/TB_Data_Path/TB_GPIO
+add wave -position end  sim:/TB_Data_Path/TB_MemWrite
+add wave -position end  sim:/TB_Data_Path/TB_IorD
+add wave -position end  sim:/TB_Data_Path/TB_IRWrite
+add wave -position end  sim:/TB_Data_Path/TB_RegWrite
+add wave -position end  sim:/TB_Data_Path/TB_MemtoReg
+add wave -position end  sim:/TB_Data_Path/TB_RegDst
+add wave -position end  sim:/TB_Data_Path/TB_PCSrc1
+add wave -position end  sim:/TB_Data_Path/TB_ALUControl
+add wave -position end  sim:/TB_Data_Path/TB_PCWrite
+add wave -position end  sim:/TB_Data_Path/PTB_CSrc1
+run
+quit -sim
+# End time: 20:05:03 on Dec 05,2021, Elapsed time: 0:01:42
+# Errors: 0, Warnings: 19
+# Compile of data_path.v was successful.
+# Compile of TB_Data_Path.v was successful.
+vsim work.TB_Data_Path
+# vsim work.TB_Data_Path 
+# Start time: 20:20:18 on Dec 05,2021
+# Loading work.TB_Data_Path
+# Loading work.data_path
+# Loading work.FFD_PC
+# Loading work.mux_module
+# Loading work.wraper_MS
+# Loading work.mux_memory_system
+# Loading work.Program_Memory
+# Loading work.single_port_sync_ram
+# Loading work.FFD
+# Loading work.wraper_RF
+# Loading work.register_file
+# Loading work.registers_4_32
+# Loading work.MUX_bits
+# Loading work.registers
+# Loading work.sign_extended_part
+# Loading work.MUX4_1
+# Loading work.ALU
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M1_ADD File: C:/Projects/data_path/src/data_path.v Line: 88
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M2_A3 File: C:/Projects/data_path/src/data_path.v Line: 95
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M3_WD3 File: C:/Projects/data_path/src/data_path.v Line: 103
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (5) for port 'Data_out'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(10).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M3_WD3 File: C:/Projects/data_path/src/data_path.v Line: 103
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'Data_out'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(10).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/MEM/mem_sys/mux File: C:/Projects/data_path/src/mem_src/mux_memory_system.v Line: 36
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/Data File: C:/Projects/data_path/src/data_path.v Line: 132
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (5) for port 'write_data_i'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'read_data_1_o'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(14).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'read_data_2_o'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(15).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'd'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/A_rout File: C:/Projects/data_path/src/data_path.v Line: 155
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/A_rout File: C:/Projects/data_path/src/data_path.v Line: 155
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'd'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/B_rout File: C:/Projects/data_path/src/data_path.v Line: 164
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/B_rout File: C:/Projects/data_path/src/data_path.v Line: 164
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/ALUResult_o File: C:/Projects/data_path/src/data_path.v Line: 205
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M5 File: C:/Projects/data_path/src/data_path.v Line: 214
+add wave -position end  sim:/TB_Data_Path/WIDTH
+add wave -position end  sim:/TB_Data_Path/TB_clk
+add wave -position end  sim:/TB_Data_Path/TB_reset
+add wave -position end  sim:/TB_Data_Path/TB_ALUSrcB
+add wave -position end  sim:/TB_Data_Path/TB_ALUSrcA
+add wave -position end  sim:/TB_Data_Path/TB_zero
+add wave -position end  sim:/TB_Data_Path/TB_op
+add wave -position end  sim:/TB_Data_Path/TB_Funct
+add wave -position end  sim:/TB_Data_Path/TB_GPIO
+add wave -position end  sim:/TB_Data_Path/TB_ALUControl
+add wave -position end  sim:/TB_Data_Path/TB_MemWrite
+add wave -position end  sim:/TB_Data_Path/TB_IorD
+add wave -position end  sim:/TB_Data_Path/TB_IRWrite
+add wave -position end  sim:/TB_Data_Path/TB_RegWrite
+add wave -position end  sim:/TB_Data_Path/TB_MemtoReg
+add wave -position end  sim:/TB_Data_Path/TB_RegDst
+add wave -position end  sim:/TB_Data_Path/TB_PCSrc1
+add wave -position end  sim:/TB_Data_Path/TB_PCWrite
+add wave -position end  sim:/TB_Data_Path/PTB_CSrc1
+run
+quit -sim
+# End time: 20:23:21 on Dec 05,2021, Elapsed time: 0:03:03
+# Errors: 0, Warnings: 18
+# Compile of TB_Data_Path.v was successful.
+vsim work.TB_Data_Path
+# vsim work.TB_Data_Path 
+# Start time: 20:52:56 on Dec 05,2021
+# Loading work.TB_Data_Path
+# Loading work.data_path
+# Loading work.FFD_PC
+# Loading work.mux_module
+# Loading work.wraper_MS
+# Loading work.mux_memory_system
+# Loading work.Program_Memory
+# Loading work.single_port_sync_ram
+# Loading work.FFD
+# Loading work.wraper_RF
+# Loading work.register_file
+# Loading work.registers_4_32
+# Loading work.MUX_bits
+# Loading work.registers
+# Loading work.sign_extended_part
+# Loading work.MUX4_1
+# Loading work.ALU
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M1_ADD File: C:/Projects/data_path/src/data_path.v Line: 88
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M2_A3 File: C:/Projects/data_path/src/data_path.v Line: 95
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M3_WD3 File: C:/Projects/data_path/src/data_path.v Line: 103
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (5) for port 'Data_out'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(10).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M3_WD3 File: C:/Projects/data_path/src/data_path.v Line: 103
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'Data_out'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(10).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/MEM/mem_sys/mux File: C:/Projects/data_path/src/mem_src/mux_memory_system.v Line: 36
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/Data File: C:/Projects/data_path/src/data_path.v Line: 132
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (5) for port 'write_data_i'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'read_data_1_o'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(14).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'read_data_2_o'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(15).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'd'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/A_rout File: C:/Projects/data_path/src/data_path.v Line: 155
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/A_rout File: C:/Projects/data_path/src/data_path.v Line: 155
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'd'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/B_rout File: C:/Projects/data_path/src/data_path.v Line: 164
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/B_rout File: C:/Projects/data_path/src/data_path.v Line: 164
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/ALUResult_o File: C:/Projects/data_path/src/data_path.v Line: 205
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M5 File: C:/Projects/data_path/src/data_path.v Line: 214
+add wave -position end  sim:/TB_Data_Path/WIDTH
+add wave -position end  sim:/TB_Data_Path/TB_clk
+add wave -position end  sim:/TB_Data_Path/TB_reset
+add wave -position end  sim:/TB_Data_Path/TB_ALUSrcB
+add wave -position end  sim:/TB_Data_Path/TB_ALUSrcA
+add wave -position end  sim:/TB_Data_Path/TB_zero
+add wave -position end  sim:/TB_Data_Path/TB_op
+add wave -position end  sim:/TB_Data_Path/TB_Funct
+add wave -position end  sim:/TB_Data_Path/TB_GPIO
+add wave -position end  sim:/TB_Data_Path/TB_ALUControl
+add wave -position end  sim:/TB_Data_Path/TB_MemWrite
+add wave -position end  sim:/TB_Data_Path/TB_IorD
+add wave -position end  sim:/TB_Data_Path/TB_IRWrite
+add wave -position end  sim:/TB_Data_Path/TB_RegWrite
+add wave -position end  sim:/TB_Data_Path/TB_MemtoReg
+add wave -position end  sim:/TB_Data_Path/TB_RegDst
+add wave -position end  sim:/TB_Data_Path/TB_PCSrc1
+add wave -position end  sim:/TB_Data_Path/TB_PCWrite
+add wave -position end  sim:/TB_Data_Path/PTB_CSrc1
+run
+quit -sim
+# End time: 20:55:12 on Dec 05,2021, Elapsed time: 0:02:16
+# Errors: 0, Warnings: 17
+# Compile of TB_Data_Path.v was successful.
+vsim work.TB_Data_Path
+# vsim work.TB_Data_Path 
+# Start time: 21:20:23 on Dec 05,2021
+# Loading work.TB_Data_Path
+# Loading work.data_path
+# Loading work.FFD_PC
+# Loading work.mux_module
+# Loading work.wraper_MS
+# Loading work.mux_memory_system
+# Loading work.Program_Memory
+# Loading work.single_port_sync_ram
+# Loading work.FFD
+# Loading work.wraper_RF
+# Loading work.register_file
+# Loading work.registers_4_32
+# Loading work.MUX_bits
+# Loading work.registers
+# Loading work.sign_extended_part
+# Loading work.MUX4_1
+# Loading work.ALU
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M1_ADD File: C:/Projects/data_path/src/data_path.v Line: 88
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M2_A3 File: C:/Projects/data_path/src/data_path.v Line: 95
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M3_WD3 File: C:/Projects/data_path/src/data_path.v Line: 103
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (5) for port 'Data_out'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(10).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M3_WD3 File: C:/Projects/data_path/src/data_path.v Line: 103
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'Data_out'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(10).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/MEM/mem_sys/mux File: C:/Projects/data_path/src/mem_src/mux_memory_system.v Line: 36
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/Data File: C:/Projects/data_path/src/data_path.v Line: 132
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (5) for port 'write_data_i'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'read_data_1_o'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(14).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'read_data_2_o'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(15).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'd'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/A_rout File: C:/Projects/data_path/src/data_path.v Line: 155
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/A_rout File: C:/Projects/data_path/src/data_path.v Line: 155
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'd'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/B_rout File: C:/Projects/data_path/src/data_path.v Line: 164
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/B_rout File: C:/Projects/data_path/src/data_path.v Line: 164
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/ALUResult_o File: C:/Projects/data_path/src/data_path.v Line: 205
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M5 File: C:/Projects/data_path/src/data_path.v Line: 214
+add wave -position end  sim:/TB_Data_Path/WIDTH
+add wave -position end  sim:/TB_Data_Path/TB_clk
+add wave -position end  sim:/TB_Data_Path/TB_reset
+add wave -position end  sim:/TB_Data_Path/TB_ALUSrcB
+add wave -position end  sim:/TB_Data_Path/TB_ALUSrcA
+add wave -position end  sim:/TB_Data_Path/TB_zero
+add wave -position end  sim:/TB_Data_Path/TB_op
+add wave -position end  sim:/TB_Data_Path/TB_Funct
+add wave -position end  sim:/TB_Data_Path/TB_GPIO
+add wave -position end  sim:/TB_Data_Path/TB_ALUControl
+add wave -position end  sim:/TB_Data_Path/TB_MemWrite
+add wave -position end  sim:/TB_Data_Path/TB_IorD
+add wave -position end  sim:/TB_Data_Path/TB_IRWrite
+add wave -position end  sim:/TB_Data_Path/TB_RegWrite
+add wave -position end  sim:/TB_Data_Path/TB_MemtoReg
+add wave -position end  sim:/TB_Data_Path/TB_RegDst
+add wave -position end  sim:/TB_Data_Path/TB_PCSrc1
+add wave -position end  sim:/TB_Data_Path/TB_PCWrite
+add wave -position end  sim:/TB_Data_Path/PTB_CSrc1
+run
+quit -sim
+# End time: 21:21:52 on Dec 05,2021, Elapsed time: 0:01:29
+# Errors: 0, Warnings: 17
+vsim work.TB_Data_Path
+# vsim work.TB_Data_Path 
+# Start time: 21:22:14 on Dec 05,2021
+# Loading work.TB_Data_Path
+# Loading work.data_path
+# Loading work.FFD_PC
+# Loading work.mux_module
+# Loading work.wraper_MS
+# Loading work.mux_memory_system
+# Loading work.Program_Memory
+# Loading work.single_port_sync_ram
+# Loading work.FFD
+# Loading work.wraper_RF
+# Loading work.register_file
+# Loading work.registers_4_32
+# Loading work.MUX_bits
+# Loading work.registers
+# Loading work.sign_extended_part
+# Loading work.MUX4_1
+# Loading work.ALU
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M1_ADD File: C:/Projects/data_path/src/data_path.v Line: 88
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M2_A3 File: C:/Projects/data_path/src/data_path.v Line: 95
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M3_WD3 File: C:/Projects/data_path/src/data_path.v Line: 103
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (5) for port 'Data_out'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(10).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M3_WD3 File: C:/Projects/data_path/src/data_path.v Line: 103
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'Data_out'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(10).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/MEM/mem_sys/mux File: C:/Projects/data_path/src/mem_src/mux_memory_system.v Line: 36
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/Data File: C:/Projects/data_path/src/data_path.v Line: 132
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (5) for port 'write_data_i'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'read_data_1_o'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(14).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'read_data_2_o'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(15).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'd'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/A_rout File: C:/Projects/data_path/src/data_path.v Line: 155
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/A_rout File: C:/Projects/data_path/src/data_path.v Line: 155
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'd'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/B_rout File: C:/Projects/data_path/src/data_path.v Line: 164
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/B_rout File: C:/Projects/data_path/src/data_path.v Line: 164
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/ALUResult_o File: C:/Projects/data_path/src/data_path.v Line: 205
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M5 File: C:/Projects/data_path/src/data_path.v Line: 214
+quit -sim
+# End time: 21:22:26 on Dec 05,2021, Elapsed time: 0:00:12
+# Errors: 0, Warnings: 16
+# Compile of TB_Data_Path.v was successful.
+vsim work.TB_Data_Path
+# vsim work.TB_Data_Path 
+# Start time: 21:23:10 on Dec 05,2021
+# Loading work.TB_Data_Path
+# Loading work.data_path
+# Loading work.FFD_PC
+# Loading work.mux_module
+# Loading work.wraper_MS
+# Loading work.mux_memory_system
+# Loading work.Program_Memory
+# Loading work.single_port_sync_ram
+# Loading work.FFD
+# Loading work.wraper_RF
+# Loading work.register_file
+# Loading work.registers_4_32
+# Loading work.MUX_bits
+# Loading work.registers
+# Loading work.sign_extended_part
+# Loading work.MUX4_1
+# Loading work.ALU
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M1_ADD File: C:/Projects/data_path/src/data_path.v Line: 88
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M2_A3 File: C:/Projects/data_path/src/data_path.v Line: 95
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M3_WD3 File: C:/Projects/data_path/src/data_path.v Line: 103
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (5) for port 'Data_out'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(10).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M3_WD3 File: C:/Projects/data_path/src/data_path.v Line: 103
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'Data_out'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(10).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/MEM/mem_sys/mux File: C:/Projects/data_path/src/mem_src/mux_memory_system.v Line: 36
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/Data File: C:/Projects/data_path/src/data_path.v Line: 132
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (5) for port 'write_data_i'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'read_data_1_o'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(14).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'read_data_2_o'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(15).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'd'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/A_rout File: C:/Projects/data_path/src/data_path.v Line: 155
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/A_rout File: C:/Projects/data_path/src/data_path.v Line: 155
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'd'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/B_rout File: C:/Projects/data_path/src/data_path.v Line: 164
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/B_rout File: C:/Projects/data_path/src/data_path.v Line: 164
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/ALUResult_o File: C:/Projects/data_path/src/data_path.v Line: 205
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M5 File: C:/Projects/data_path/src/data_path.v Line: 214
+add wave -position end  sim:/TB_Data_Path/DUV/WIDTH
+add wave -position end  sim:/TB_Data_Path/DUV/clk
+add wave -position end  sim:/TB_Data_Path/DUV/reset
+add wave -position end  sim:/TB_Data_Path/DUV/ALUSrcB
+add wave -position end  sim:/TB_Data_Path/DUV/ALUSrcA
+add wave -position end  sim:/TB_Data_Path/DUV/zero
+add wave -position end  sim:/TB_Data_Path/DUV/op
+add wave -position end  sim:/TB_Data_Path/DUV/Funct
+add wave -position end  sim:/TB_Data_Path/DUV/GPIO
+add wave -position end  sim:/TB_Data_Path/DUV/ALUControl
+add wave -position end  sim:/TB_Data_Path/DUV/MemWrite
+add wave -position end  sim:/TB_Data_Path/DUV/IorD
+add wave -position end  sim:/TB_Data_Path/DUV/IRWrite
+add wave -position end  sim:/TB_Data_Path/DUV/RegWrite
+add wave -position end  sim:/TB_Data_Path/DUV/MemtoReg
+add wave -position end  sim:/TB_Data_Path/DUV/RegDst
+add wave -position end  sim:/TB_Data_Path/DUV/PCSrc1
+add wave -position end  sim:/TB_Data_Path/DUV/PCWrite
+add wave -position end  sim:/TB_Data_Path/DUV/in_PC
+add wave -position end  sim:/TB_Data_Path/DUV/ffpc_o
+add wave -position end  sim:/TB_Data_Path/DUV/ffrd_o
+add wave -position end  sim:/TB_Data_Path/DUV/ffwd_o
+add wave -position end  sim:/TB_Data_Path/DUV/MUX2_to_1_o
+add wave -position end  sim:/TB_Data_Path/DUV/Adr
+add wave -position end  sim:/TB_Data_Path/DUV/RD
+add wave -position end  sim:/TB_Data_Path/DUV/WD3_i
+add wave -position end  sim:/TB_Data_Path/DUV/ReadData_o
+add wave -position end  sim:/TB_Data_Path/DUV/A3_o
+add wave -position end  sim:/TB_Data_Path/DUV/zero_1
+add wave -position end  sim:/TB_Data_Path/DUV/WD3
+add wave -position end  sim:/TB_Data_Path/DUV/ALUResult
+add wave -position end  sim:/TB_Data_Path/DUV/ALU_o
+add wave -position end  sim:/TB_Data_Path/DUV/RD1_i
+add wave -position end  sim:/TB_Data_Path/DUV/RD2_i
+add wave -position end  sim:/TB_Data_Path/DUV/RD1_o
+add wave -position end  sim:/TB_Data_Path/DUV/RD2_o
+add wave -position end  sim:/TB_Data_Path/DUV/SrcA
+add wave -position end  sim:/TB_Data_Path/DUV/SrcB
+add wave -position end  sim:/TB_Data_Path/DUV/zero_o
+add wave -position end  sim:/TB_Data_Path/DUV/PCEn
+add wave -position end  sim:/TB_Data_Path/DUV/Out_A
+add wave -position end  sim:/TB_Data_Path/DUV/rs_A1
+add wave -position end  sim:/TB_Data_Path/DUV/rt_A2
+add wave -position end  sim:/TB_Data_Path/DUV/rd_A3
+add wave -position end  sim:/TB_Data_Path/DUV/sign_extended_i
+add wave -position end  sim:/TB_Data_Path/DUV/sign_extended_o
+add wave -position end  sim:/TB_Data_Path/DUV/RD1
+add wave -position end  sim:/TB_Data_Path/DUV/RD2
+run
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M1_ADD File: C:/Projects/data_path/src/data_path.v Line: 88
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M2_A3 File: C:/Projects/data_path/src/data_path.v Line: 95
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M3_WD3 File: C:/Projects/data_path/src/data_path.v Line: 103
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (5) for port 'Data_out'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(10).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M3_WD3 File: C:/Projects/data_path/src/data_path.v Line: 103
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'Data_out'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(10).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/MEM/mem_sys/mux File: C:/Projects/data_path/src/mem_src/mux_memory_system.v Line: 36
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/Data File: C:/Projects/data_path/src/data_path.v Line: 132
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (5) for port 'write_data_i'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'read_data_1_o'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(14).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'read_data_2_o'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(15).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'd'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/A_rout File: C:/Projects/data_path/src/data_path.v Line: 155
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/A_rout File: C:/Projects/data_path/src/data_path.v Line: 155
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'd'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/B_rout File: C:/Projects/data_path/src/data_path.v Line: 164
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/B_rout File: C:/Projects/data_path/src/data_path.v Line: 164
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/ALUResult_o File: C:/Projects/data_path/src/data_path.v Line: 205
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M5 File: C:/Projects/data_path/src/data_path.v Line: 214
+quit -sim
+# End time: 21:24:59 on Dec 05,2021, Elapsed time: 0:01:49
+# Errors: 0, Warnings: 16
+vsim work.TB_Data_Path
+# vsim work.TB_Data_Path 
+# Start time: 21:25:03 on Dec 05,2021
+# Loading work.TB_Data_Path
+# Loading work.data_path
+# Loading work.FFD_PC
+# Loading work.mux_module
+# Loading work.wraper_MS
+# Loading work.mux_memory_system
+# Loading work.Program_Memory
+# Loading work.single_port_sync_ram
+# Loading work.FFD
+# Loading work.wraper_RF
+# Loading work.register_file
+# Loading work.registers_4_32
+# Loading work.MUX_bits
+# Loading work.registers
+# Loading work.sign_extended_part
+# Loading work.MUX4_1
+# Loading work.ALU
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M1_ADD File: C:/Projects/data_path/src/data_path.v Line: 88
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M2_A3 File: C:/Projects/data_path/src/data_path.v Line: 95
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M3_WD3 File: C:/Projects/data_path/src/data_path.v Line: 103
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (5) for port 'Data_out'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(10).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M3_WD3 File: C:/Projects/data_path/src/data_path.v Line: 103
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'Data_out'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(10).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/MEM/mem_sys/mux File: C:/Projects/data_path/src/mem_src/mux_memory_system.v Line: 36
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/Data File: C:/Projects/data_path/src/data_path.v Line: 132
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (5) for port 'write_data_i'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'read_data_1_o'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(14).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'read_data_2_o'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(15).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'd'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/A_rout File: C:/Projects/data_path/src/data_path.v Line: 155
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/A_rout File: C:/Projects/data_path/src/data_path.v Line: 155
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'd'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/B_rout File: C:/Projects/data_path/src/data_path.v Line: 164
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/B_rout File: C:/Projects/data_path/src/data_path.v Line: 164
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/ALUResult_o File: C:/Projects/data_path/src/data_path.v Line: 205
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M5 File: C:/Projects/data_path/src/data_path.v Line: 214
+add wave -position end  sim:/TB_Data_Path/WIDTH
+add wave -position end  sim:/TB_Data_Path/TB_clk
+add wave -position end  sim:/TB_Data_Path/TB_reset
+add wave -position end  sim:/TB_Data_Path/TB_ALUSrcB
+add wave -position end  sim:/TB_Data_Path/TB_ALUSrcA
+add wave -position end  sim:/TB_Data_Path/TB_zero
+add wave -position end  sim:/TB_Data_Path/TB_op
+add wave -position end  sim:/TB_Data_Path/TB_Funct
+add wave -position end  sim:/TB_Data_Path/TB_GPIO
+add wave -position end  sim:/TB_Data_Path/TB_ALUControl
+add wave -position end  sim:/TB_Data_Path/TB_MemWrite
+add wave -position end  sim:/TB_Data_Path/TB_IorD
+add wave -position end  sim:/TB_Data_Path/TB_IRWrite
+add wave -position end  sim:/TB_Data_Path/TB_RegWrite
+add wave -position end  sim:/TB_Data_Path/TB_MemtoReg
+add wave -position end  sim:/TB_Data_Path/TB_RegDst
+add wave -position end  sim:/TB_Data_Path/TB_PCSrc1
+add wave -position end  sim:/TB_Data_Path/TB_PCWrite
+add wave -position end  sim:/TB_Data_Path/PTB_CSrc1
+run
+quit -sim
+# End time: 21:34:11 on Dec 05,2021, Elapsed time: 0:09:08
+# Errors: 0, Warnings: 16
+# Compile of TB_Data_Path.v was successful.
+vsim work.TB_Data_Path
+# vsim work.TB_Data_Path 
+# Start time: 21:36:58 on Dec 05,2021
+# Loading work.TB_Data_Path
+# Loading work.data_path
+# Loading work.FFD_PC
+# Loading work.mux_module
+# Loading work.wraper_MS
+# Loading work.mux_memory_system
+# Loading work.Program_Memory
+# Loading work.single_port_sync_ram
+# Loading work.FFD
+# Loading work.wraper_RF
+# Loading work.register_file
+# Loading work.registers_4_32
+# Loading work.MUX_bits
+# Loading work.registers
+# Loading work.sign_extended_part
+# Loading work.MUX4_1
+# Loading work.ALU
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M1_ADD File: C:/Projects/data_path/src/data_path.v Line: 88
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M2_A3 File: C:/Projects/data_path/src/data_path.v Line: 95
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M3_WD3 File: C:/Projects/data_path/src/data_path.v Line: 103
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (5) for port 'Data_out'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(10).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M3_WD3 File: C:/Projects/data_path/src/data_path.v Line: 103
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'Data_out'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(10).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/MEM/mem_sys/mux File: C:/Projects/data_path/src/mem_src/mux_memory_system.v Line: 36
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/Data File: C:/Projects/data_path/src/data_path.v Line: 132
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (5) for port 'write_data_i'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'read_data_1_o'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(14).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'read_data_2_o'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(15).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'd'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/A_rout File: C:/Projects/data_path/src/data_path.v Line: 155
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/A_rout File: C:/Projects/data_path/src/data_path.v Line: 155
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'd'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/B_rout File: C:/Projects/data_path/src/data_path.v Line: 164
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/B_rout File: C:/Projects/data_path/src/data_path.v Line: 164
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/ALUResult_o File: C:/Projects/data_path/src/data_path.v Line: 205
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M5 File: C:/Projects/data_path/src/data_path.v Line: 214
+add wave -position end  sim:/TB_Data_Path/WIDTH
+add wave -position end  sim:/TB_Data_Path/TB_clk
+add wave -position end  sim:/TB_Data_Path/TB_reset
+add wave -position end  sim:/TB_Data_Path/TB_ALUSrcB
+add wave -position end  sim:/TB_Data_Path/TB_ALUSrcA
+add wave -position end  sim:/TB_Data_Path/TB_zero
+add wave -position end  sim:/TB_Data_Path/TB_op
+add wave -position end  sim:/TB_Data_Path/TB_Funct
+add wave -position end  sim:/TB_Data_Path/TB_GPIO
+add wave -position end  sim:/TB_Data_Path/TB_ALUControl
+add wave -position end  sim:/TB_Data_Path/TB_MemWrite
+add wave -position end  sim:/TB_Data_Path/TB_IorD
+add wave -position end  sim:/TB_Data_Path/TB_IRWrite
+add wave -position end  sim:/TB_Data_Path/TB_RegWrite
+add wave -position end  sim:/TB_Data_Path/TB_MemtoReg
+add wave -position end  sim:/TB_Data_Path/TB_RegDst
+add wave -position end  sim:/TB_Data_Path/TB_PCSrc1
+add wave -position end  sim:/TB_Data_Path/TB_PCWrite
+add wave -position end  sim:/TB_Data_Path/PTB_CSrc1
+run
+run
+run
+run
+quit -sim
+# End time: 21:38:24 on Dec 05,2021, Elapsed time: 0:01:26
+# Errors: 0, Warnings: 17
+vsim work.TB_Data_Path
+# vsim work.TB_Data_Path 
+# Start time: 21:42:26 on Dec 05,2021
+# Loading work.TB_Data_Path
+# Loading work.data_path
+# Loading work.FFD_PC
+# Loading work.mux_module
+# Loading work.wraper_MS
+# Loading work.mux_memory_system
+# Loading work.Program_Memory
+# Loading work.single_port_sync_ram
+# Loading work.FFD
+# Loading work.wraper_RF
+# Loading work.register_file
+# Loading work.registers_4_32
+# Loading work.MUX_bits
+# Loading work.registers
+# Loading work.sign_extended_part
+# Loading work.MUX4_1
+# Loading work.ALU
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M1_ADD File: C:/Projects/data_path/src/data_path.v Line: 88
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M2_A3 File: C:/Projects/data_path/src/data_path.v Line: 95
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M3_WD3 File: C:/Projects/data_path/src/data_path.v Line: 103
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (5) for port 'Data_out'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(10).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M3_WD3 File: C:/Projects/data_path/src/data_path.v Line: 103
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'Data_out'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(10).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/MEM/mem_sys/mux File: C:/Projects/data_path/src/mem_src/mux_memory_system.v Line: 36
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/Data File: C:/Projects/data_path/src/data_path.v Line: 132
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (5) for port 'write_data_i'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'read_data_1_o'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(14).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'read_data_2_o'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(15).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'd'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/A_rout File: C:/Projects/data_path/src/data_path.v Line: 155
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/A_rout File: C:/Projects/data_path/src/data_path.v Line: 155
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'd'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/B_rout File: C:/Projects/data_path/src/data_path.v Line: 164
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/B_rout File: C:/Projects/data_path/src/data_path.v Line: 164
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/ALUResult_o File: C:/Projects/data_path/src/data_path.v Line: 205
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M5 File: C:/Projects/data_path/src/data_path.v Line: 214
+add wave -position end  sim:/TB_Data_Path/WIDTH
+add wave -position end  sim:/TB_Data_Path/TB_clk
+add wave -position end  sim:/TB_Data_Path/TB_reset
+add wave -position end  sim:/TB_Data_Path/TB_ALUSrcB
+add wave -position end  sim:/TB_Data_Path/TB_ALUSrcA
+add wave -position end  sim:/TB_Data_Path/TB_zero
+add wave -position end  sim:/TB_Data_Path/TB_op
+add wave -position end  sim:/TB_Data_Path/TB_Funct
+add wave -position end  sim:/TB_Data_Path/TB_GPIO
+add wave -position end  sim:/TB_Data_Path/TB_ALUControl
+add wave -position end  sim:/TB_Data_Path/TB_MemWrite
+add wave -position end  sim:/TB_Data_Path/TB_IorD
+add wave -position end  sim:/TB_Data_Path/TB_IRWrite
+add wave -position end  sim:/TB_Data_Path/TB_RegWrite
+add wave -position end  sim:/TB_Data_Path/TB_MemtoReg
+add wave -position end  sim:/TB_Data_Path/TB_RegDst
+add wave -position end  sim:/TB_Data_Path/TB_PCSrc1
+add wave -position end  sim:/TB_Data_Path/TB_PCWrite
+add wave -position end  sim:/TB_Data_Path/PTB_CSrc1
+run
+quit -sim
+# End time: 22:16:15 on Dec 05,2021, Elapsed time: 0:33:49
+# Errors: 0, Warnings: 16
+# Compile of TB_Data_Path.v was successful.
+vsim work.TB_Data_Path
+# vsim work.TB_Data_Path 
+# Start time: 22:17:17 on Dec 05,2021
+# Loading work.TB_Data_Path
+# Loading work.data_path
+# Loading work.FFD_PC
+# Loading work.mux_module
+# Loading work.wraper_MS
+# Loading work.mux_memory_system
+# Loading work.Program_Memory
+# Loading work.single_port_sync_ram
+# Loading work.FFD
+# Loading work.wraper_RF
+# Loading work.register_file
+# Loading work.registers_4_32
+# Loading work.MUX_bits
+# Loading work.registers
+# Loading work.sign_extended_part
+# Loading work.MUX4_1
+# Loading work.ALU
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M1_ADD File: C:/Projects/data_path/src/data_path.v Line: 88
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M2_A3 File: C:/Projects/data_path/src/data_path.v Line: 95
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M3_WD3 File: C:/Projects/data_path/src/data_path.v Line: 103
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (5) for port 'Data_out'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(10).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M3_WD3 File: C:/Projects/data_path/src/data_path.v Line: 103
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'Data_out'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(10).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/MEM/mem_sys/mux File: C:/Projects/data_path/src/mem_src/mux_memory_system.v Line: 36
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/Data File: C:/Projects/data_path/src/data_path.v Line: 132
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (5) for port 'write_data_i'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(13).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'read_data_1_o'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(14).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'read_data_2_o'. The port definition is at: C:/Projects/data_path/src/reg_src/wraper_RF.v(15).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/RF File: C:/Projects/data_path/src/data_path.v Line: 141
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'd'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/A_rout File: C:/Projects/data_path/src/data_path.v Line: 155
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/A_rout File: C:/Projects/data_path/src/data_path.v Line: 155
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (1) for port 'd'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/B_rout File: C:/Projects/data_path/src/data_path.v Line: 164
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/B_rout File: C:/Projects/data_path/src/data_path.v Line: 164
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'enable'. The port definition is at: C:/Projects/data_path/src/reg_src/FFD.v(8).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/ALUResult_o File: C:/Projects/data_path/src/data_path.v Line: 205
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'Sel'. The port definition is at: C:/Projects/data_path/src/mem_src/mux_module.v(9).
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Data_Path/DUV/M5 File: C:/Projects/data_path/src/data_path.v Line: 214
+add wave -position end  sim:/TB_Data_Path/WIDTH
+add wave -position end  sim:/TB_Data_Path/TB_clk
+add wave -position end  sim:/TB_Data_Path/TB_reset
+add wave -position end  sim:/TB_Data_Path/TB_ALUSrcB
+add wave -position end  sim:/TB_Data_Path/TB_ALUSrcA
+add wave -position end  sim:/TB_Data_Path/TB_zero
+add wave -position end  sim:/TB_Data_Path/TB_op
+add wave -position end  sim:/TB_Data_Path/TB_Funct
+add wave -position end  sim:/TB_Data_Path/TB_GPIO
+add wave -position end  sim:/TB_Data_Path/TB_ALUControl
+add wave -position end  sim:/TB_Data_Path/TB_MemWrite
+add wave -position end  sim:/TB_Data_Path/TB_IorD
+add wave -position end  sim:/TB_Data_Path/TB_IRWrite
+add wave -position end  sim:/TB_Data_Path/TB_RegWrite
+add wave -position end  sim:/TB_Data_Path/TB_MemtoReg
+add wave -position end  sim:/TB_Data_Path/TB_RegDst
+add wave -position end  sim:/TB_Data_Path/TB_PCSrc1
+add wave -position end  sim:/TB_Data_Path/TB_PCWrite
+run
